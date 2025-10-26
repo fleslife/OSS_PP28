@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>megaMenu_KelolaUsaha</name>
+   <tag></tag>
+   <elementGuidId>a8a80b93-c4b8-4227-98dd-f88a5f73bd97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-base.font-semibold</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_wrapper']/nav/nav/header/div[2]/div/div/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d9901d04-c3c1-4349-bc70-7c9bd1586b05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-base font-semibold</value>
+      <webElementGuid>2d5db9f3-27b8-40d1-ab35-a3fba4de7743</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kelola Usaha</value>
+      <webElementGuid>230d297e-579b-441e-ba85-4e9753856d2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_wrapper&quot;)/nav[@class=&quot;text-base-black&quot;]/nav[@class=&quot;text-base-black&quot;]/header[@class=&quot;bg-white shadow&quot;]/div[@class=&quot;absolute z-40 w-full lg:left-32 lg:right-72 lg:max-w-[816px] lg:rounded-2xl lg:shadow-md 3xl:left-1/4 border-t border-oss-gray-100 bg-white flex flex-col max-h-[768px] overflow-hidden&quot;]/div[@class=&quot;flex w-full items-stretch gap-0 lg:py- min-h-0&quot;]/div[@class=&quot;flex-shrink-0 border-r border-gray-200 p-4 max-h-[600px] overflow-y-auto w-[320px]&quot;]/div[@class=&quot;flex cursor-pointer items-start gap-10 px-1 py-3 border-transparent text-oss-base-black hover:bg-oss-gray-50 hover:text-oss-red-500 rounded-lg&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;flex items-center justify-between&quot;]/span[@class=&quot;text-base font-semibold&quot;]</value>
+      <webElementGuid>85a1e03c-b333-4879-9bd4-67c74945f643</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_wrapper']/nav/nav/header/div[2]/div/div/div/div/div/span</value>
+      <webElementGuid>889338b5-f6d9-48d2-a737-2d3ccece183a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAJAR LESMANA'])[1]/following::span[6]</value>
+      <webElementGuid>545b137a-4663-48b2-9021-ceaaab96223e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informasi'])[1]/following::span[7]</value>
+      <webElementGuid>ddd40e38-4a06-46fb-b974-5ee9459735c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pencabutan'])[1]/preceding::span[2]</value>
+      <webElementGuid>097c6fd5-7bc0-4190-8d3a-1f3c0b50fe71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembatalan'])[1]/preceding::span[4]</value>
+      <webElementGuid>562a47fe-5490-43b0-96d4-39358a4e5c5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kelola Usaha']/parent::*</value>
+      <webElementGuid>68c16ef2-237e-4b1d-92eb-1931d4055416</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/span</value>
+      <webElementGuid>4ba690a1-a5bc-41b6-be74-c73c8e136a13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Kelola Usaha' or . = 'Kelola Usaha')]</value>
+      <webElementGuid>c0b83656-1894-469f-8dc2-90cef195dbbb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

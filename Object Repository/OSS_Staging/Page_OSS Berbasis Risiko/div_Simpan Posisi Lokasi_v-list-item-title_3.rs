@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Simpan Posisi Lokasi_v-list-item-title_3</name>
+   <tag></tag>
+   <elementGuidId>bc2152f3-df77-4871-8652-896999e1e234</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-list-item-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menu-v-0-43']/div/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d187656d-4e60-407e-a7a3-b77eed290f77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-list-item-title</value>
+      <webElementGuid>92ae2d35-22a3-4c97-af14-4b3c797cb132</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lembang</value>
+      <webElementGuid>819ee8d1-d0c9-4dac-9eb9-29060b05798e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-v-0-43&quot;)/div[@class=&quot;v-overlay__content v-autocomplete__content&quot;]/div[@class=&quot;v-list v-theme--OssRbaTheme v-list--density-default v-list--one-line&quot;]/div[@class=&quot;v-list-item v-list-item--link v-theme--OssRbaTheme v-list-item--density-default v-list-item--one-line rounded-0 v-list-item--variant-text&quot;]/div[@class=&quot;v-list-item__content&quot;]/div[@class=&quot;v-list-item-title&quot;]</value>
+      <webElementGuid>b0f10b81-2dfd-46a0-a2cc-5db5b2e4ab83</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menu-v-0-43']/div/div/div[2]/div/div</value>
+      <webElementGuid>df54280d-fcfd-4f2e-a1e7-51433f4cc1aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[2]/div/div/div[2]/div/div</value>
+      <webElementGuid>36b79713-8334-4811-b15e-498166c94f9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Lembang' or . = 'Lembang')]</value>
+      <webElementGuid>1a31685c-aa6f-4055-9c33-7bccc418077c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

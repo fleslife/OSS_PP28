@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login user MikroRendah</description>
+   <name>Login_MikroRendah</name>
+   <tag>MikroRendah</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>801f9dc9-4dff-4678-b98f-1ae6f4cf80f9</testCaseGuid>
+</TestCaseEntity>

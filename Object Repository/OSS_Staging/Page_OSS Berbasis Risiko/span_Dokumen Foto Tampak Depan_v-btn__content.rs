@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dokumen Foto Tampak Depan_v-btn__content</name>
+   <tag></tag>
+   <elementGuidId>15237a73-f1a0-4501-b233-9edd056b2813</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.v-btn.v-theme--OssRbaTheme.text-primary.v-btn--density-default.v-btn--size-default.v-btn--variant-outlined > span.v-btn__content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper-file-1304925833']/div/div/div/label/button/span[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cf5ff815-5480-475d-b574-6f11d7c2d8c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-btn__content</value>
+      <webElementGuid>82a5752c-198a-4ca3-99f0-255fc34cda99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Dokumen</value>
+      <webElementGuid>4a958012-30a0-41ec-bb22-ae8f08065e83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper-file-1304925833&quot;)/div[@class=&quot;p-4 border rounded-xl w-full border-dashed&quot;]/div[@class=&quot;flex justify-between items-center gap-4&quot;]/div[1]/label[1]/button[@class=&quot;v-btn v-theme--OssRbaTheme text-primary v-btn--density-default v-btn--size-default v-btn--variant-outlined&quot;]/span[@class=&quot;v-btn__content&quot;]</value>
+      <webElementGuid>b2d2d820-6bdb-41e4-a5b8-79a9a583a61e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper-file-1304925833']/div/div/div/label/button/span[3]</value>
+      <webElementGuid>b7f5b30c-5a4b-4b09-beb7-5e6197cba974</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dokumen Foto Tampak Depan'])[1]/following::span[4]</value>
+      <webElementGuid>fb1dbb7f-a0ac-46fb-a324-aba1d8e9d15b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pilih Dokumen']/parent::*</value>
+      <webElementGuid>f850183d-e15f-487f-9f9c-bfa61631076b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/button/span[3]</value>
+      <webElementGuid>3166bedc-6535-4dc1-a2d9-c34828668f6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Pilih Dokumen' or . = 'Pilih Dokumen')]</value>
+      <webElementGuid>8e058fa1-3cc1-4c6c-a007-d4228bf237de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

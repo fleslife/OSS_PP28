@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>megaMenu-PerizinanBerusaha</name>
+   <tag></tag>
+   <elementGuidId>a0724a06-e51b-49cb-993b-879f6d46a403</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_wrapper']/nav/nav/header/div/nav/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4b1651a6-3c7e-4131-9c54-c3d32ef03eda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>top-menu-group-7e43ea22-196e-4333-bd93-0f05d45606b7</value>
+      <webElementGuid>9da69dfb-2929-4c36-8b6c-d06003d8857f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center gap-2 whitespace-nowrap border-b-4 px-4 pt-4 pb-3 text-[] text-oss-base-black font-bold hover:text-oss-red-500 border-transparent text-oss-gray-700</value>
+      <webElementGuid>1e189bdf-3d57-4d37-b6d1-4c19cd9828dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Perizinan Berusaha </value>
+      <webElementGuid>cdea7924-af84-4cb1-86e2-7efb22e757da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_wrapper&quot;)/nav[@class=&quot;text-base-black&quot;]/nav[@class=&quot;text-base-black&quot;]/header[@class=&quot;bg-white shadow&quot;]/div[@class=&quot;custom-container&quot;]/nav[@class=&quot;nav-main&quot;]/div[@class=&quot;nav-item&quot;]/div[@class=&quot;nav-paths&quot;]/div[@class=&quot;inline-flex items-center gap-2 whitespace-nowrap border-b-4 px-4 pt-4 pb-3 text-[] text-oss-base-black font-bold hover:text-oss-red-500 border-transparent text-oss-gray-700&quot;]</value>
+      <webElementGuid>5d96af57-d844-437e-b12c-35db68b4b411</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_wrapper']/nav/nav/header/div/nav/div/div/div[2]</value>
+      <webElementGuid>5bd404bf-e673-4d62-a7db-927a8c351561</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ti-chevron-down'])[1]/following::div[1]</value>
+      <webElementGuid>b67fc14d-5bdc-4602-b2af-2b27b419112d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kemitraan'])[1]/preceding::div[1]</value>
+      <webElementGuid>0de0810d-d06a-4d2c-9b2d-d3291d0d7a3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pelaporan'])[1]/preceding::div[2]</value>
+      <webElementGuid>8daefa0a-8c3c-475a-8878-82809fd8229a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Perizinan Berusaha']/parent::*</value>
+      <webElementGuid>c18bf016-549c-4096-9f39-5e8fb5b0411f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div/nav/div/div/div[2]</value>
+      <webElementGuid>53cf9ddc-b73c-4906-b44b-b60dc0b6381c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Perizinan Berusaha ' or . = ' Perizinan Berusaha ')]</value>
+      <webElementGuid>2fe0c0f3-0f7a-440b-bc87-1b73f46e799d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

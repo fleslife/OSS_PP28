@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_GunakanLokasiIni</name>
+   <tag></tag>
+   <elementGuidId>9f474d70-9300-4d56-a235-d3075e95d998</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.v-btn.v-theme--OssRbaTheme.text-primary.v-btn--density-default.v-btn--size-large.v-btn--variant-outlined</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>95802747-1d03-45df-9a45-a071b51591ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8e6b7bcd-dad2-4f4b-9567-d2b3587a3093</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-btn v-theme--OssRbaTheme text-primary v-btn--density-default v-btn--size-large v-btn--variant-outlined</value>
+      <webElementGuid>0a97e71f-d2f2-4504-a575-6dad40019080</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gunakan Lokasi Ini</value>
+      <webElementGuid>565451b9-cbf5-4a5b-af4b-9ac872e0628c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;v-overlay-container&quot;]/div[@class=&quot;v-overlay v-overlay--active v-theme--OssRbaTheme v-locale--is-ltr v-dialog&quot;]/div[@class=&quot;v-overlay__content&quot;]/div[@class=&quot;v-card v-theme--OssRbaTheme v-card--density-default v-card--variant-elevated oss-rounded h-[90vh] flex flex-col&quot;]/div[@class=&quot;flex-1 overflow-auto content-modal&quot;]/div[@class=&quot;flex flex-col gap-6&quot;]/div[1]/form[@class=&quot;v-form flex flex-col gap-4&quot;]/div[@class=&quot;bg-primary-25 p-4 flex flex-col gap-4 rounded-lg&quot;]/div[@class=&quot;grid grid-cols-3 gap-2 items-end&quot;]/button[@class=&quot;v-btn v-theme--OssRbaTheme text-primary v-btn--density-default v-btn--size-large v-btn--variant-outlined&quot;]</value>
+      <webElementGuid>46f89fb1-c631-4e5c-8b1d-9014d61fb76e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>510e3569-595b-49be-b5c4-fb9fc961a0ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Koordinat'])[1]/following::button[1]</value>
+      <webElementGuid>b47ade41-4aa1-495c-94ef-9ee50d3264d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OpenStreetMap'])[1]/following::button[1]</value>
+      <webElementGuid>49af1984-bfe6-4910-be77-ccd1c5c61db1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Luas Lahan'])[1]/preceding::button[1]</value>
+      <webElementGuid>71d8f0fc-1a94-4b65-9d25-7fdd48fffc93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/button</value>
+      <webElementGuid>a1c8bebc-1397-4ba2-b4a7-b47e82892f94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Gunakan Lokasi Ini' or . = 'Gunakan Lokasi Ini')]</value>
+      <webElementGuid>8177fc1e-904d-4fc8-a33d-48f8cfa7b453</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

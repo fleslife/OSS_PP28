@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>megaMenu_LokasiUsaha</name>
+   <tag></tag>
+   <elementGuidId>354c1c84-2795-4383-8500-5fe4a9268e1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-sm.font-semibold.truncate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_wrapper']/nav/nav/header/div[2]/div/div[2]/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>edb7fdd3-0d4e-4fd7-8c42-595e49364828</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm font-semibold truncate</value>
+      <webElementGuid>1abcd707-8198-4898-8cc4-08164a5756ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Lokasi Usaha </value>
+      <webElementGuid>508d00a3-47bc-4b80-bf7b-1923f1ca59f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_wrapper&quot;)/nav[@class=&quot;text-base-black&quot;]/nav[@class=&quot;text-base-black&quot;]/header[@class=&quot;bg-white shadow&quot;]/div[@class=&quot;absolute z-40 w-full lg:left-32 lg:right-72 lg:max-w-[816px] lg:rounded-2xl lg:shadow-md 3xl:left-1/4 border-t border-oss-gray-100 bg-white flex flex-col max-h-[768px] overflow-hidden&quot;]/div[@class=&quot;flex w-full items-stretch gap-0 lg:py- min-h-0&quot;]/div[@class=&quot;flex-auto min-w-0 min-h-0 max-h-[600px] overflow-y-auto p-4&quot;]/div[1]/div[@class=&quot;px-4&quot;]/div[@class=&quot;flex items-start justify-between  transition-colors px-4 py-3 cursor-pointer border-transparent hover:bg-oss-gray-50 hover:text-oss-red-500 rounded-md&quot;]/div[@class=&quot;min-w-0&quot;]/div[@class=&quot;text-sm font-semibold truncate&quot;]</value>
+      <webElementGuid>b5ee19b1-2b59-4eb4-85ea-9f5f1bfffc76</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_wrapper']/nav/nav/header/div[2]/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>e30b0ec7-3935-4569-87de-2b2a4cfab69d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Sanksi'])[1]/following::div[7]</value>
+      <webElementGuid>f18e2bd1-119f-40b9-aff6-b7bd308bbd20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembatalan'])[1]/following::div[11]</value>
+      <webElementGuid>9e8782c5-cb91-4635-affb-df06256da6b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mengelola data lokasi usaha, menambah lokasi baru dan melacak status izin lokasi.'])[1]/preceding::div[1]</value>
+      <webElementGuid>df336293-7e5d-4a1f-bcd5-62c08e1b6e11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permohonan Baru'])[1]/preceding::div[3]</value>
+      <webElementGuid>3a99df75-7fc5-4276-b7ec-efd138714086</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lokasi Usaha']/parent::*</value>
+      <webElementGuid>2380727b-43d5-4966-b407-faae85df84eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>84fc5cd5-3b2a-4128-bc07-5707ee61d9e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Lokasi Usaha ' or . = ' Lokasi Usaha ')]</value>
+      <webElementGuid>149794eb-dc4e-4ccd-aafb-56db3e51ed0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

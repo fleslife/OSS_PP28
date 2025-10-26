@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_TambahLokasi</name>
+   <tag></tag>
+   <elementGuidId>eccb29c8-d3ae-4f83-8641-b7efa0a9d978</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.v-btn__content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout']/main/div/div/div[2]/section/div/div/div/button/span[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>74bffdc2-6c18-4208-ba15-07bcc384970a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-btn__content</value>
+      <webElementGuid>52df731e-bb08-4f86-818c-ff2afe6da33c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tambah Lokasi</value>
+      <webElementGuid>aabe128e-95da-49e0-81dc-b7424d45e840</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout&quot;)/main[@class=&quot;v-main bg-[#ffffff]&quot;]/div[@class=&quot;py-[25px]&quot;]/div[1]/div[2]/section[@class=&quot;container flex justify-center px-12 mx-auto&quot;]/div[@class=&quot;flex gap-4&quot;]/div[@class=&quot;w-[1223px] h-full p-5 gap-3 border-2-white shadow-lg rounded-lg&quot;]/div[@class=&quot;flex flex-row items-center justify-between p-3&quot;]/button[@class=&quot;v-btn v-theme--OssRbaTheme bg-primary v-btn--density-default v-btn--size-default v-btn--variant-flat&quot;]/span[@class=&quot;v-btn__content&quot;]</value>
+      <webElementGuid>a3d92014-dc96-495d-83ca-c2f54625a465</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout']/main/div/div/div[2]/section/div/div/div/button/span[3]</value>
+      <webElementGuid>b43e27ab-664b-476d-9f9c-ac392104968c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelola Usaha'])[1]/following::span[3]</value>
+      <webElementGuid>04daf3be-fc29-463b-ac01-a7fb6a8de2ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAJAR LESMANA'])[1]/following::span[7]</value>
+      <webElementGuid>2a7927fa-f6b8-452d-a967-c14169db76a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aceh'])[1]/preceding::span[3]</value>
+      <webElementGuid>3901fd0d-2184-4082-9459-d1593653a150</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aceh'])[2]/preceding::span[3]</value>
+      <webElementGuid>d2c36e50-b780-492c-be96-e8ed94a2ad78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tambah Lokasi']/parent::*</value>
+      <webElementGuid>0362fde6-9dd3-4f91-87ef-542221585551</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]</value>
+      <webElementGuid>6f14e295-126d-475d-a9c6-9fcdfaaf8d62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Tambah Lokasi' or . = ' Tambah Lokasi')]</value>
+      <webElementGuid>4a5d10f5-fae2-4c2d-a834-dbeba1dbf0b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

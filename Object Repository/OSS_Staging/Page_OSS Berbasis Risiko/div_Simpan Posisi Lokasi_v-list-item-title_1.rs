@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Simpan Posisi Lokasi_v-list-item-title_1</name>
+   <tag></tag>
+   <elementGuidId>b937b259-54ec-46c5-bdcd-e8a8e77e130d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-list-item-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menu-v-0-28']/div/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>28f3765d-a41e-450c-ad79-6e160f14ecb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-list-item-title</value>
+      <webElementGuid>40d54a2b-d4b3-4884-8d56-74c1e7492b7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jawa Barat</value>
+      <webElementGuid>c46e8a93-608e-4c31-af02-5990341d0b66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-v-0-28&quot;)/div[@class=&quot;v-overlay__content v-autocomplete__content&quot;]/div[@class=&quot;v-list v-theme--OssRbaTheme v-list--density-default v-list--one-line&quot;]/div[@class=&quot;v-list-item v-list-item--link v-theme--OssRbaTheme v-list-item--density-default v-list-item--one-line rounded-0 v-list-item--variant-text&quot;]/div[@class=&quot;v-list-item__content&quot;]/div[@class=&quot;v-list-item-title&quot;]</value>
+      <webElementGuid>363b3839-72c5-49a8-92c7-3470d5c64f4d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menu-v-0-28']/div/div/div[2]/div/div</value>
+      <webElementGuid>69ceea85-ff9b-4b66-a373-66f4c2104245</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jawa Barat']/parent::*</value>
+      <webElementGuid>965901ec-9b37-403e-9cf7-85cbdbca8b1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[2]/div/div/div[2]/div/div</value>
+      <webElementGuid>e6ada19e-2f87-4e35-b3f5-2351d51ffc14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Jawa Barat' or . = 'Jawa Barat')]</value>
+      <webElementGuid>e4131240-08ea-48e0-82b9-4467157269bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

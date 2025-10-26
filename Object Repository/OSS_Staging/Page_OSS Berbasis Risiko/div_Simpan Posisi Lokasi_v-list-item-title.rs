@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Simpan Posisi Lokasi_v-list-item-title</name>
+   <tag></tag>
+   <elementGuidId>34d918c7-29ed-4f56-adec-ee63a4d398e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-list-item-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menu-v-0-33']/div/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2b905919-ebf5-4c3a-a345-3b2a000fb042</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-list-item-title</value>
+      <webElementGuid>b3269fd1-0585-4a61-97bf-b2058a51cceb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kab. Bandung Barat</value>
+      <webElementGuid>b85db208-382d-4e89-8e33-23879a384531</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-v-0-33&quot;)/div[@class=&quot;v-overlay__content v-autocomplete__content&quot;]/div[@class=&quot;v-list v-theme--OssRbaTheme v-list--density-default v-list--one-line&quot;]/div[@class=&quot;v-list-item v-list-item--link v-theme--OssRbaTheme v-list-item--density-default v-list-item--one-line rounded-0 v-list-item--variant-text&quot;]/div[@class=&quot;v-list-item__content&quot;]/div[@class=&quot;v-list-item-title&quot;]</value>
+      <webElementGuid>8c7e8241-7cca-40e9-8b5a-065fcf7c03ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menu-v-0-33']/div/div/div[2]/div/div</value>
+      <webElementGuid>c388e98c-f4c3-4819-985e-ea1b11175a95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kab. Bandung Barat']/parent::*</value>
+      <webElementGuid>1eb4dafa-d58e-4e6f-96cb-4fede751d775</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[2]/div/div/div[2]/div/div</value>
+      <webElementGuid>e8ad8245-6e3d-491e-a5a2-9f9816453ecf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kab. Bandung Barat' or . = 'Kab. Bandung Barat')]</value>
+      <webElementGuid>fbb069c0-eb61-405e-b18b-55988f3a2a12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

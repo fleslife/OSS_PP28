@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Membuka FORM PENAMBAHAN POSISI LOKASI USAHA</description>
+   <name>goTo_FormPenambahanPosisiLokasiUsaha</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6ff2afd6-7297-4fc2-bbe0-effba932ee9f</testCaseGuid>
+</TestCaseEntity>

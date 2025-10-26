@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pilih dari peta atau masukkan titik koo_0b38e6</name>
+   <tag></tag>
+   <elementGuidId>b195b0b2-43f6-4265-b19f-be9893bd36a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#lokasi-usaha-map</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>		</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>09e8f3d5-62e9-4e72-97a2-7c9dc2ebe088</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>lokasi-usaha-map</value>
+      <webElementGuid>e8392bda-3423-48af-a134-5f9f1226db16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>leaflet-map-container leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom</value>
+      <webElementGuid>dd8dc075-35b0-491a-87e3-4ee3dc2d1be0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>5e97d092-8ad3-4ab0-bfbf-6c5d1eefa827</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Leaflet | © OpenStreetMap contributors</value>
+      <webElementGuid>8499d09a-aab2-4047-acfe-4e5481ea0a47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lokasi-usaha-map&quot;)</value>
+      <webElementGuid>c049c27f-b999-4d28-ac3c-1da4c5c69d20</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='lokasi-usaha-map']</value>
+      <webElementGuid>ce89d6d4-8b2b-4cb4-848c-1e87960b5286</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih dari peta atau masukkan titik koordinat lokasi kegiatan usaha'])[1]/following::div[2]</value>
+      <webElementGuid>10ab7ff3-4678-43be-a494-ff09ef8e3062</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Koordinat Lokasi Usaha'])[1]/following::div[2]</value>
+      <webElementGuid>b84932d4-fd59-4ff0-98ba-2eb4b34c0def</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[5]/div/div/div</value>
+      <webElementGuid>79f6d29a-7a6f-4c91-906a-ec7075e26ff0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'lokasi-usaha-map' and (text() = ' Leaflet | © OpenStreetMap contributors' or . = ' Leaflet | © OpenStreetMap contributors')]</value>
+      <webElementGuid>a0a04983-bc25-4e72-8e41-1b1ac851360f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

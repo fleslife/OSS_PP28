@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_TambahPosisiLokasi</name>
+   <tag></tag>
+   <elementGuidId>13decf50-9ccd-404f-a4d4-d7860dc5f88f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.v-btn__content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout']/main/div/div/div/div[2]/div/button/span[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bb0931a8-89c1-40d0-b4e0-79e34773e51c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-btn__content</value>
+      <webElementGuid>d4196def-68ae-44b7-bbd1-cfe79d5522e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah Posisi Lokasi </value>
+      <webElementGuid>b3ef2a47-779d-4023-af2d-2cbcb62aa3c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout&quot;)/main[@class=&quot;v-main bg-[#ffffff]&quot;]/div[@class=&quot;py-[25px]&quot;]/div[@class=&quot;container mx-auto px-12 flex justify-center flex-col gap-5 mb-[4rem]&quot;]/div[@class=&quot;v-card v-theme--OssRbaTheme v-card--density-default v-card--variant-elevated&quot;]/div[@class=&quot;v-card-text&quot;]/div[@class=&quot;flex flex-col items-center justify-center gap-5&quot;]/button[@class=&quot;v-btn v-theme--OssRbaTheme text-primary v-btn--density-default v-btn--size-default v-btn--variant-tonal&quot;]/span[@class=&quot;v-btn__content&quot;]</value>
+      <webElementGuid>7af5ac9a-242e-4b3c-9020-90c554efd6b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout']/main/div/div/div/div[2]/div/button/span[3]</value>
+      <webElementGuid>d8168e80-78dd-4b2f-b4d4-abc8740d16a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tambah Posisi Lokasi']/parent::*</value>
+      <webElementGuid>a5133cb6-34c8-41cd-b90d-9a3f517b1424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]</value>
+      <webElementGuid>72017e0d-7b2e-4468-83e4-cf5ed080559b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Tambah Posisi Lokasi ' or . = 'Tambah Posisi Lokasi ')]</value>
+      <webElementGuid>cb1029a9-06ce-44c1-8794-a0e94acf6982</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
