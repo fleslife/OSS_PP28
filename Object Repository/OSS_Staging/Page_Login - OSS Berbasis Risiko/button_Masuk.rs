@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Masuk</name>
+   <tag></tag>
+   <elementGuidId>8f3f7911-1dc0-43ed-acd8-99d02bdab229</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type=&quot;button&quot;]//child::span[contains(text(),&quot;Masuk&quot;)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.v-btn__content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>04e91071-6e48-4393-9d70-a87ac93fc39c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-btn__content</value>
+      <webElementGuid>de1df9cb-3ab8-492b-8e46-5d6d4bba1858</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Masuk </value>
+      <webElementGuid>135ca8fb-a72f-4541-bba7-843a43a002b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loginForm&quot;)/div[@class=&quot;v-application--wrap&quot;]/div[2]/div[@class=&quot;loginContainer mx-auto&quot;]/div[@class=&quot;loginBox m-b-24&quot;]/div[@class=&quot;loginForm&quot;]/form[@class=&quot;v-form&quot;]/div[@class=&quot;text-center&quot;]/button[@class=&quot;v-btn v-btn--block v-btn--is-elevated v-btn--has-bg theme--dark v-size--x-large primary rounded-lg submitBtn&quot;]/span[@class=&quot;v-btn__content&quot;]</value>
+      <webElementGuid>da7e6383-e35b-41bf-8a06-63020ac5f8ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='loginForm']/div/div[2]/div[2]/div/div[2]/form/div[4]/button/span</value>
+      <webElementGuid>51907042-ac17-48cf-9627-01fd4856ac36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Butuh Bantuan?'])[1]/following::span[1]</value>
+      <webElementGuid>97c5ec91-a7b7-4b16-bacf-dd3f98dcea8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::span[1]</value>
+      <webElementGuid>1544e538-e0ba-4f53-9d67-5d5b212533de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/preceding::span[3]</value>
+      <webElementGuid>bb125859-7424-45fc-9c8b-b050986d66b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sistem Perizinan Berusaha Terintegrasi Secara Elektronik'])[1]/preceding::span[3]</value>
+      <webElementGuid>dd791f77-d96d-4e91-bc1d-d19f22715d98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>4ceb1755-8020-45d1-8bed-99a64fd1d8c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Masuk ' or . = ' Masuk ')]</value>
+      <webElementGuid>d605af3a-4c8a-42e6-b046-c2321534e4ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
